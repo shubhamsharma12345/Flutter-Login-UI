@@ -1,2 +1,2 @@
 ## readme 
-![home image](./assets/lion12.jpg)
+![home image](./assets/lion.jpg)
