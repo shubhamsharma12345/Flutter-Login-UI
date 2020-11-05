@@ -1,2 +1,3 @@
 ## readme 
-![home image](./assets/lion12.jpg=300x)
+<img src ="./assets/lion12.jpg" width="100" height="10">
+![home image](./assets/lion12.jpg)
